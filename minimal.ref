@@ -1,0 +1,23 @@
+%% OPmac - REF file (\inputref)
+\Xrefversion{2}
+\Xpage{-1}
+\Xpage{-2}
+\Xpage{-3}
+\Xpage{-4}
+\Xpage{-5}
+\Xpage{-6}
+\Xpage{1}
+\Xtoc{0}{\bfshape }{1}{Úvod}{1}
+\Xtoc{1}{\rm }{1.1}{Modely kategorie RES}{1}
+\Xtoc{2}{\rm }{1.1.1}{RESolution}{1}
+\Xtab{RESolution_specifikace}{1.1}{Specifikace modelu RESolution}
+\Xlabel{RESolution_specifikace}{1.1}
+\Xtoc{2}{\rm }{1.1.2}{PURES V2}{1}
+\Xtab{PURES_specifikace}{1.2}{Specifikace modelu PURES}
+\Xlabel{PURES_specifikace}{1.2}
+\Xpage{2}
+\Xtoc{2}{\rm }{1.1.3}{Porovnání}{2}
+\Xbib{Parek2002}{1}{}
+\Xbib{Schwartz2014}{2}{}
+\Xpage{3}
+\Xtoc{0}{\bfshape }{!1}{Literatura}{3}
