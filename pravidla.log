@@ -1,0 +1,182 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdfcsplain 2018.2.5)  10 FEB 2018 22:04
+entering extended mode
+ encTeX v. Jun. 2004, reencoding enabled
+**./pravidla.tex
+(pravidla.tex The format: csplain <Apr. 2016>.
+The cs-fonts are preloaded and A4 size implicitly defined.
+The utf8->iso8859-2 re-encoding of Czech+Slovak alphabet activated by encTeX
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \mathop 
+\sec ->\mathop 
+               {\rm sec}\nolimits 
+l.1 \sec
+         Pravidla kategorie RES
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.2 \rfc
+         {přidat citace na pravidla}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.4 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (776.73517pt too wide) in paragraph at lines 1--4
+[]$[] \teni PravidlakategorieRES[]KategorieF\tenrm 3\teni B \tensy ^^@ \teni RE
+S\tenrm (\teni pop\tenrm ř\teni :F\tenrm 3\teni RES\tenrm )\teni jesout\tenrm 
+ěž\teni n\tenrm í\teni t\tenrm ří\teni daradiem\tenrm ří\teni zen\tenrm 
+ý\teni chmodel\tenrm ů\teni v\tenrm ě\teni tro\tenrm ňů\teni smaxim\tenrm 
+á\teni ln\tenrm í\teni mrozp\tenrm ě\teni t\tenrm í\teni m\tenrm 2\teni met
+ryap\tenrm ř\teni eva\tenrm ž\teni uj\tenrm í\teni c\tenrm í\teni d\tenrm �
+�\teni ev\tenrm ě\teni noukonstrukc\tenrm í\teni :Odovl\tenrm á\teni dan\ten
+rm ý\teni chfunkc\tenrm í\teni jeodvozenn\tenrm á\teni zevcel\tenrm é\teni 
+kategorie:Rudder; Elevator; Spoiler \tensy ^^@|
+
+\hbox(7.5+2.5)x452.96786, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\mathon
+.\hbox(4.30554+0.0)x12.83333
+..\tenrm s
+..\tenrm e
+..\tenrm c
+.\glue(\thinmuskip) 1.66663
+.\teni P
+.etc.
+
+
+Overfull \hbox (104.2492pt too wide) in paragraph at lines 1--4
+\teni Sm\tenrm ě\teni rovka; V\tenrm ýš\teni kovka; Spoiler:Modeljedovzduchu
+vysl\tenrm á\teni npomoc\tenrm í\teni gumicuku:Vsout\tenrm ěž\teni isehodno
+t\tenrm íč\teni asov\tenrm á\teni d\tenrm é\teni lkaletuap\tenrm ř\teni es
+nostp\tenrm ř\teni ist\tenrm á\teni n\tenrm í\teni :$ |
+
+\hbox(6.94444+1.94444)x452.96786
+.\teni S
+.\kern0.57637
+.\teni m
+.\tenrm ě
+.\teni r
+.etc.
+
+! Undefined control sequence.
+l.6 \rfc
+         {lze spoiler nazvat rušič vztlaku? Nebo lépe brzda? Brzdící kl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 \rfc
+         {Hodí se název gumicuk do Bakalářské práce? Nebo spíš guma ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.10 \secc
+           Průběh soutěže
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 \secc
+           Průběh předkol a finálních kol
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 \secc
+           Bodování
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 \rfc
+          {je přepočítávání srozumitelné? Nebo je lepší ho zcela vy...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \secc
+           Požadavky na letadlo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 \begitems
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 \enditems
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.47 \rfc
+          {poslední dvě odrážky chybí v pravidlech z 1.1.2017}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62 \rfc
+          {Ocitovat jednotlivá pravidla - celá přiložit do přílohy}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ./pravidla.tex
+                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

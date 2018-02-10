@@ -7,17 +7,27 @@
 \Xpage{-5}
 \Xpage{-6}
 \Xpage{1}
-\Xtoc{0}{\bfshape }{1}{Úvod}{1}
-\Xtoc{1}{\rm }{1.1}{Modely kategorie RES}{1}
-\Xtoc{2}{\rm }{1.1.1}{RESolution}{1}
+\Xtoc{0}{\bfshape }{1}{Teoretická část}{1}
+\Xtoc{1}{\rm }{1.1}{Pravidla kategorie RES}{1}
+\Xtoc{2}{\rm }{1.1.1}{Průběh soutěže}{1}
+\Xtoc{2}{\rm }{1.1.2}{Průběh předkol a finálních kol}{1}
+\Xtoc{2}{\rm }{1.1.3}{Bodování}{1}
+\Xpage{2}
+\Xtoc{2}{\rm }{1.1.4}{Požadavky na letadlo}{2}
+\Xtoc{1}{\rm }{1.2}{Modely kategorie RES}{2}
+\Xtoc{2}{\rm }{1.2.1}{RESolution}{2}
 \Xtab{RESolution_specifikace}{1.1}{Specifikace modelu RESolution}
 \Xlabel{RESolution_specifikace}{1.1}
-\Xtoc{2}{\rm }{1.1.2}{PURES V2}{1}
+\Xtoc{2}{\rm }{1.2.2}{PURES}{2}
+\Xpage{3}
 \Xtab{PURES_specifikace}{1.2}{Specifikace modelu PURES}
 \Xlabel{PURES_specifikace}{1.2}
-\Xpage{2}
-\Xtoc{2}{\rm }{1.1.3}{Porovnání}{2}
+\Xtoc{2}{\rm }{1.2.3}{Picares}{3}
+\Xtab{Picares_specifikace}{1.3}{Specifikace modelu Picares}
+\Xlabel{Picares_specifikace}{1.3}
+\Xtoc{2}{\rm }{1.2.4}{Porovnání}{3}
 \Xbib{Parek2002}{1}{}
 \Xbib{Schwartz2014}{2}{}
-\Xpage{3}
-\Xtoc{0}{\bfshape }{!1}{Literatura}{3}
+\Xpage{4}
+\Xtoc{0}{\bfshape }{!1}{Literatura}{4}
+\Xpage{5}

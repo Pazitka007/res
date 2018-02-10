@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdfcsplain 2018.2.5)  9 FEB 2018 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdfcsplain 2018.2.5)  10 FEB 2018 22:08
 entering extended mode
  encTeX v. Jun. 2004, reencoding enabled
 **./minimal.tex
@@ -112,7 +112,7 @@ FONT: Latin Modern - {\caps \sans \ttset \slant \nbold \ttprop \ttlight \ttcond
 cs hyphenation used (\language=5). \frenchspacing is set on. [-1{C:/Users/Marti
 n/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ctulogo.pdf>] [-2]
 [-3]
-Underfull \vbox (badness 10000) detected at line 14
+Underfull \vbox (badness 10000) detected at line 20
 
 \vbox(625.96062+0.0)x190.63347, glue set 30.69803
 .\glue(\splittopskip) 4.42238 plus 20.0
@@ -140,17 +140,18 @@ Underfull \vbox (badness 10000) detected at line 14
 ..\glue(\parfillskip) 0.0 plus 1.0fil
 ..\glue(\rightskip) 0.0
 
-[-4] [-5] [-6] (uvod.tex [1]) [2] (bibliografie.bbl) [3] ){C:/Program Files/MiK
-TeX 2.9/fonts/enc/dvips/lm/lm-cstt.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/d
-vips/lm/lm-cs.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
-ssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on minimal.pdf (9 pages, 234083 bytes).
+[-4] [-5] [-6] (pravidla.tex [1]) (letadla.tex [2]) [3] (bibliografie.bbl)
+[4] [5] ){C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-cs.enc}{C:/Program 
+Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-cstt.enc}<C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
+m/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmt
+t10.pfb>
+Output written on minimal.pdf (11 pages, 260050 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
